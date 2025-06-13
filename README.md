@@ -28,10 +28,10 @@ This is a simple Amazon homepage UI clone built using HTML and CSS. The project 
 📁 Folder Structure
 
 📦 Amazon-Clone/
- ┣ 📄 index.html
- ┣ 📄 style.css
- ┣ 🖼️ box1_image.jpg to box8_image.jpg
- ┗ 🖼️ amazon_logo.png, hero_image.jpg
+    📄 index.html
+    📄 style.css
+    🖼️ box1_image.jpg to box8_image.jpg
+    🖼️ amazon_logo.png, hero_image.jpg
 
 🎯 What I Learned
 
