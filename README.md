@@ -43,8 +43,7 @@ This is a simple Amazon homepage UI clone built using HTML and CSS. The project 
 
 🚀 How to Run
 
-1. Clone the repository
-    git clone https://github.com/your-username/amazon-clone.git
+1. Clone the repository git clone https://github.com/SarmisthaAich/Amazon-Clone.git
 
 2. Open index.html in your browser
 
