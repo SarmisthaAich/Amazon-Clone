@@ -49,6 +49,3 @@ This is a simple Amazon homepage UI clone built using HTML and CSS. The project 
 2. Open index.html in your browser
 
 3. Boom 💥 You're viewing your Amazon homepage replica!
-
-📸 Demo
-(Optional: Add a screenshot or GIF of the webpage here for extra ✨flair✨)
